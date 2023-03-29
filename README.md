@@ -21,4 +21,4 @@ Single page of the website
 
 ## Tech stack used in this project
 
-JavaScript, HTML5, CSS3, API
+JavaScript, HTML5, CSS3, API,React js
